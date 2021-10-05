@@ -1,12 +1,17 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vipin Dev</h1>
-<h3 align="center">An aspiring full stack Android developer 🚀</h3>
+Hi there! :wave:
 
 
 ## 👨🏻‍💻 About Me
 
-- 📘 I’m currently learning **Data Structures and Algorithms.**
-- 🧾 I’m looking to collaborate on **OpenSource Projects**
-- ✨ **Apart from Android, I have interest in playing indoor games and reading books on personal development.**
+<ul>
+  
+<li>:iphone: Full-Stack Android Developer </li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> Reach out to me :
+ <a href="https://www.linkedin.com/in/vipin-dev/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a>         </li>
+ <li>:receipt: Resume : <a href="https://drive.google.com/file/d/1-L9KfK69oM8Xuy_1NafMqcIWAi6XH9oY/view">view</a></li>
+  
+  <li>:fire: Portfolio : <a href="https://vipindevanz.github.io/">visit</a></li>
+</ul>
 
 ## 🔥 Languages and Tools:
 
@@ -36,14 +41,6 @@
 
 <br/>
 <br/>
-
-## Me on Social Media
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/vipin-dev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/vipindevok"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
