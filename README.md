@@ -8,7 +8,7 @@ Hi there! :wave:
 <li>:iphone: Full-Stack Android Developer </li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> Reach out to me :
  <a href="https://www.linkedin.com/in/vipin-dev/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a>         </li>
- <li>:receipt: Resume : <a href="https://drive.google.com/file/d/1TCPpUirE6Ur_pFTqnxgUAohOO2JbdI3h/view">view</a></li>
+ <li>:receipt: Resume : <a href="https://drive.google.com/file/d/11qnUT_44nev0z3wb6Zj3M6tL5udpgLp5/view">view</a></li>
   
   <li>:fire: Portfolio : <a href="https://vipindevanz.github.io/">visit</a></li>
 </ul>
