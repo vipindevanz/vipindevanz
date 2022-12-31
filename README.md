@@ -6,7 +6,7 @@ Hi there! :wave:
 <ul>
   
 <li>:iphone: Full-Stack Android Developer </li>
-  <li>:receipt: Resume : <a href="https://drive.google.com/file/d/1BTVNPcLmpDCR9eN3bS8X-RiCHe43nQ9V/view?usp=sharing">view</a></li>
+  <li>:receipt: Resume : <a href="https://drive.google.com/file/d/14K8zzJHHPFT3O6y4YNBM-f6c65oABeaJ/view">view</a></li>
   <li>:fire: Portfolio : <a href="https://vipindevanz.github.io/">visit</a></li>
   <li>:link: Linkedin : <a href="https://www.linkedin.com/in/vipin-dev/">visit</a></li>
 </ul>
